@@ -1,0 +1,3 @@
+Name: hari
+Age: 20
+Course: gen ai
