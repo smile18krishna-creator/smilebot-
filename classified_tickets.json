@@ -1,0 +1,102 @@
+[
+  {
+    "ticket_id": 1,
+    "status": "ok",
+    "raw_text": "yo wtf?? i got charged $249.99 TWICE on my visa ending 4821 this morning!! i only signed up for the starter plan not enterprise. fix this or im calling my bank for a chargeback asap",
+    "category": "billing",
+    "urgency": "high",
+    "sentiment": "angry",
+    "requires_human": true,
+    "short_summary": "Customer demands refund for double $249.99 charge and threatens chargeback."
+  },
+  {
+    "ticket_id": 2,
+    "status": "ok",
+    "raw_text": "Hi team, I just got 4 password reset emails I didn't request and now my 2FA phone number was changed to a number in another country?? Please lock my account immediately I think someone hacked me.",
+    "category": "account_access",
+    "urgency": "high",
+    "sentiment": "angry",
+    "requires_human": true,
+    "short_summary": "Customer reports account hack and unauthorized 2FA phone number change."
+  },
+  {
+    "ticket_id": 3,
+    "status": "ok",
+    "raw_text": "app keeps crashing every single time i click export to pdf!! error code 502 pops up and i have a client presentation in 20 mins pls help",
+    "category": "technical_bug",
+    "urgency": "high",
+    "sentiment": "angry",
+    "requires_human": false,
+    "short_summary": "App crashes with error 502 when exporting to PDF before presentation."
+  },
+  {
+    "ticket_id": 4,
+    "status": "ok",
+    "raw_text": "Loving the new dashboard update btw!! Quick idea: would be super cool if we could schedule weekly CSV reports to go straight to Slack every Monday morning. No rush, just thought I'd share :)",
+    "category": "feature_request",
+    "urgency": "low",
+    "sentiment": "positive",
+    "requires_human": false,
+    "short_summary": "Customer suggests adding scheduled weekly CSV reports to Slack."
+  },
+  {
+    "ticket_id": 5,
+    "status": "ok",
+    "raw_text": "Oh great, another $15 'mystery add-on fee' on my invoice that I definitely never clicked. Love paying extra for stuff I don't use. Can someone take this off next month's bill?",
+    "category": "billing",
+    "urgency": "medium",
+    "sentiment": "angry",
+    "requires_human": false,
+    "short_summary": "Customer complains about an unauthorized $15 add-on fee and requests removal."
+  },
+  {
+    "ticket_id": 6,
+    "status": "ok",
+    "raw_text": "Your sync bug wiped three weeks of our team's project notes yesterday. Our legal counsel is reviewing your SLA terms right now and we will pursue damages if data isn't restored by 5 PM.",
+    "category": "technical_bug",
+    "urgency": "high",
+    "sentiment": "angry",
+    "requires_human": true,
+    "short_summary": "Sync bug wiped team project notes, prompting legal action threats."
+  },
+  {
+    "ticket_id": 7,
+    "status": "ok",
+    "raw_text": "hello i changed my work email after our company rebranded from oldco.com to newco.io and now SSO wont let me sign in. can u update my login email?",
+    "category": "account_access",
+    "urgency": "medium",
+    "sentiment": "neutral",
+    "requires_human": false,
+    "short_summary": "Customer needs login email updated after company rebrand."
+  },
+  {
+    "ticket_id": 8,
+    "status": "ok",
+    "raw_text": "hey so dark mode looks kinda weird on safari like the sidebar text is grey on grey barely readable also while ur fixing css pls add keyboard shortcuts for archiving tasks thx",
+    "category": "technical_bug",
+    "urgency": "low",
+    "sentiment": "neutral",
+    "requires_human": false,
+    "short_summary": "Customer reports dark mode readability issue on Safari."
+  },
+  {
+    "ticket_id": 9,
+    "status": "ok",
+    "raw_text": "Hey! Just renewed our annual team workspace—everything has been running smoothly. Could you send over a GST/tax invoice with our company address for our accounting folder?",
+    "category": "billing",
+    "urgency": "low",
+    "sentiment": "positive",
+    "requires_human": false,
+    "short_summary": "Customer requests a GST tax invoice with their company address."
+  },
+  {
+    "ticket_id": 10,
+    "status": "ok",
+    "raw_text": "cant log in on my new phone bcuz my old phone screen broke and google authenticator was on it. still know my password tho how do i reset 2fa",
+    "category": "account_access",
+    "urgency": "medium",
+    "sentiment": "neutral",
+    "requires_human": false,
+    "short_summary": "Customer needs to reset 2FA after breaking their phone."
+  }
+]

@@ -1,0 +1,3 @@
+Project Summary
+---------------
+This PDF was generated with Python and saved directly into the folder.
